@@ -1,24 +1,31 @@
-## Introduction
+# Markdown and Git Homework
 
 En aquest projecte, crearem diversos fitxers i repositoris Git per practicar els conceptes bàsics d'ambdues eines. Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.com/doc).
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+Aquí va la introducción del proyecto...
+
 ## Features
 
-- Gestió de versions amb Git
-- Documentació senzilla amb Markdown
-- Integració amb GitHub per al versionament remot
+Aquí describirás las características del proyecto...
 
 ## Installation
 
-1. Clona el repositori: `git clone https://github.com/yourusername/MarkdownProject.git`
-2. Instal·la les dependències (si n'hi ha): `pip install -r requirements.txt`
+Aquí explicarás cómo instalar el proyecto...
 
 ## Usage
 
-Exemple d'ús:
+Aquí pondrás ejemplos de uso del proyecto...
 
-```bash
-git init
-git add .
-git commit -m "First commit"
-```
+## License
+
+Información sobre la licencia del proyecto...
