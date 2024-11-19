@@ -16,7 +16,11 @@ En aquest projecte, crearem diversos fitxers i repositoris Git per practicar els
 
 ## Features
 
-Aquí describirás las características del proyecto...
+| Feature                 | Description                                                                          | Status      |
+| ----------------------- | ------------------------------------------------------------------------------------ | ----------- |
+| **User Authentication** | Implementar un sistema d'autenticació d'usuaris amb correu electrònic i contrasenya. | In Progress |
+| **File Upload**         | Permetre als usuaris pujar fitxers en diversos formats (PDF, JPG, PNG).              | Completed   |
+| **Data Analysis**       | Crear una funcionalitat per analitzar dades de l'usuari i generar informes.          | Pending     |
 
 ## Installation
 
