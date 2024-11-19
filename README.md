@@ -12,7 +12,7 @@ En aquest projecte, crearem diversos fitxers i repositoris Git per practicar els
 
 ## Introduction
 
-Aquí va la introducción del proyecto...
+![Project Logo](images/logo.png)
 
 ## Features
 
