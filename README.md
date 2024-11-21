@@ -16,6 +16,14 @@ En aquest projecte, crearem diversos fitxers i repositoris Git per practicar els
 
 ## Features
 
+- **User Authentication**: Implementar un sistema d'autenticació d'usuaris amb correu electrònic i contrasenya.
+
+- **File Upload**: Permetre als usuaris pujar fitxers en diversos formats (PDF, JPG, PNG).
+
+- **Data Analysis**: Crear una funcionalitat per analitzar dades de l'usuari i generar informes.
+
+Aquesta aplicació permet als usuaris _pujar_ i **gestionar** fitxers de manera eficaç. Per exemple, pots utilitzar el següent codi per autenticar un usuari:
+
 | Feature                 | Description                                                                          | Status      |
 | ----------------------- | ------------------------------------------------------------------------------------ | ----------- |
 | **User Authentication** | Implementar un sistema d'autenticació d'usuaris amb correu electrònic i contrasenya. | In Progress |
@@ -33,3 +41,7 @@ Aquí pondrás ejemplos de uso del proyecto...
 ## License
 
 Información sobre la licencia del proyecto...
+
+```
+
+```
