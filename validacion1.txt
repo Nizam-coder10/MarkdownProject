@@ -1,0 +1,93 @@
+commit 28a290165936381d7f69e4dbcf8a63f0cd4ffeea
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Thu Nov 21 12:14:46 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit ff842afe68997b4e8bbf6bb5a05e9b80c3a35609
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Thu Nov 21 12:06:32 2024 +0100
+
+    Enhance README with formatting.
+
+ README.md | 20 +++++++++++++++++---
+ 1 file changed, 17 insertions(+), 3 deletions(-)
+
+commit e3cd84c637bee5784551d5d303224fdd0ff98523
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Thu Nov 21 11:51:49 2024 +0100
+
+    Add feature list table to README
+
+ README.md        |  12 ++++++++++++
+ README.md.save   |   3 +++
+ images/logo.png  | Bin 6161 -> 289042 bytes
+ images/logo.png~ | Bin 0 -> 203441 bytes
+ 4 files changed, 15 insertions(+)
+
+commit c9acbab1ecdf77beeb87c8db8e3f4d7f74508311
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 09:44:59 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit f32aead363ba6f7d3b709b349c9931854b403074
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 09:23:59 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 +-
+ images/logo.png | Bin 0 -> 6161 bytes
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 6ceb2f182551a659848d61375cc4f79280326f3b
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 08:57:46 2024 +0100
+
+    Add sections to README
+
+ README.md | 31 +++++++++++++++++++------------
+ 1 file changed, 19 insertions(+), 12 deletions(-)
+
+commit 8ae28331b748eaff072cfb7a680a9d28ca68d2c3
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 08:51:11 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 29 +++++++++++++++++++++--------
+ 1 file changed, 21 insertions(+), 8 deletions(-)
+
+commit ea0c45170b453f3458cf64a985c1e860c9d86fe5
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 08:45:00 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 8d38c74b95a5353a30524ccf1b88666be05290a9
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 08:41:01 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit b114e7666e6fd0b7cc1db3aa8c0968e4b0c69130
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 19 08:15:50 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
