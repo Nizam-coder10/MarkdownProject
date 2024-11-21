@@ -1,6 +1,7 @@
 # Markdown and Git Homework
 
-En aquest projecte, crearem diversos fitxers i repositoris Git per practicar els conceptes bàsics d'ambdues eines. Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.com/doc).
+En aquest projecte, creare diversos fitxers i repositoris Git per practicar els conceptes bàsics de git. 
+Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.com/doc).
 
 ## Table of Contents
 
@@ -52,7 +53,7 @@ result = add_numbers(5, 7)
 print("The sum is:", result)
 ```
 Example of inline code ```git log``` , using backticks.
-## License´
+## License
 
 Información sobre la licencia del proyecto...
 
